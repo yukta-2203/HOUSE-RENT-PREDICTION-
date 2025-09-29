@@ -64,16 +64,16 @@ The project relies on standard Python data science libraries. The primary depend
 ## 5. References
 
 1.  **Machine Learning Fundamentals and Implementation:**
-    * Géron, A. (2019). *Hands-on machine learning with Scikit-Learn, Keras & TensorFlow: Concepts, tools, and techniques to build intelligent systems*. O'Reilly Media.
+    * Géron, A. (2019). *Hands-on machine learning with Scikit-Learn, Keras & TensorFlow: Concepts, tools, and techniques to build intelligent systems*. O'Reilly Media. [Link to O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 2.  **Ensemble Methods (Gradient Boosting):**
-    * Friedman, J. H. (2001). Greedy function approximation: a gradient boosting machine. *The Annals of Statistics*, *29*(5), 1189–1232. [Standard reference for the GBR algorithm]
+    * Friedman, J. H. (2001). Greedy function approximation: a gradient boosting machine. *The Annals of Statistics*, *29*(5), 1189–1232. [Link to JMLR PDF](https://jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf)
 
 3.  **Real Estate Price Prediction:**
-    * Chau, K. W., & Poon, C. Y. (2003). A comparison of the performance of ANN and traditional econometric models in forecasting house price. *Journal of Applied Soft Computing*, *3*(2), 221–234. [General reference on ML in housing prediction]
+    * Chau, K. W., & Poon, C. Y. (2003). A comparison of the performance of ANN and traditional econometric models in forecasting house price. *Journal of Applied Soft Computing*, *3*(2), 221–234. [Link to ResearchGate](https://www.researchgate.net/publication/364138467_Econometric_Analyses_of_International_Housing_Markets)
 
 4.  **Statistical Methods and Outlier Treatment:**
-    * Tukey, J. W. (1977). *Exploratory data analysis*. Addison-Wesley. [Foundational work for the Box Plot and IQR method for outlier detection]
+    * Tukey, J. W. (1977). *Exploratory data analysis*. Addison-Wesley. [Link to Internet Archive](https://archive.org/details/exploratorydataa0000tuke_7616)
 
 5.  **Software Implementation:**
-    * Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research*, *12*(Oct), 2825-2830. [Citation for the primary machine learning library used]
+    * Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research*, *12*(Oct), 2825-2830. [Link to JMLR Paper](https://www.jmlr.org/papers/v12/pedregosa11a.html)
